@@ -1,0 +1,20 @@
+阅文
+	已投  微信
+美图
+	已投  官网
+搜狗	已投  大街
+陌陌	已投  邮箱投递。
+
+人人贷
+	已投  51job
+链家
+	已投  官网
+映客	已投  邮箱投递。
+滴滴出行已投  牛客网
+趣店	已投  官网
+
+
+https://free.aliyun.com/               709668
+systemctl set-default multi-user.target  //设置成命令模式
+
+systemctl set-default graphical.target  //设置成图形模式
